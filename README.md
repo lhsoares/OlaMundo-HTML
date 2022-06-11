@@ -12,9 +12,9 @@ Processo de criação
 	>guit add .   
 	 	
 5. Dar o commit para comitar o que foi adicionado
+	 O -m é para colocar a mensagem ou obsevação para o commit.
 	>git commit -m "inclusao do arquivo html"    
-		.obs.: o -m é para colocar a mensagem ou obsevação para o commit.
 			
-6. Subir com o conteudo do repositorio local para o repoditorio remoto no Guithub.
+6. Subir com o conteudo do repositorio local para o repoditorio remoto no Guithub:
 	>git push origin main
 	
