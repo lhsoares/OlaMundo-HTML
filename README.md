@@ -1,7 +1,7 @@
 # Ola Mundo-HTML
 Feito para um desafio de projeto
 
-** Processo de criação **
+**Processo de criação
 
 1. Criar o projeto no Github
 2. Baixar (clonar) o repoditorio para a maquina
